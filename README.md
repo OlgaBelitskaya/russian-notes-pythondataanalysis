@@ -1,4 +1,4 @@
-## $$\color{#ff35fe}{\mathbb{Russian Notes Python DataAnalysis}}$$
+## $$\color{slategray}{\mathbb{Russian &nbsp; Notes &nbsp; Python &nbsp; DataAnalysis}}$$
 
 [2.1 Введение в профессию «Аналитик данных»](https://www.kaggle.com/code/olgabelitskaya/russian-notes-pythondataanalysis-2-1)
 
