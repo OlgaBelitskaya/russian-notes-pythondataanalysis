@@ -46,9 +46,9 @@
 
 [2.33 Pandas - Трансформация данных](https://www.kaggle.com/code/olgabelitskaya/russian-notes-pythondataanalysis-2-33)
 
-[2.33 Pandas - Трансформация данных](https://www.kaggle.com/code/olgabelitskaya/russian-notes-pythondataanalysis-2-33)
+2.34 - 2.36 В разработке
 
-2.34 - 2.37 В разработке
+[2.37 Python Scipy](https://www.kaggle.com/code/olgabelitskaya/russian-notes-pythondataanalysis-2-37)
 
 [2.38 Python Matplotlib](https://www.kaggle.com/code/olgabelitskaya/russian-notes-pythondataanalysis-2-38)
 
