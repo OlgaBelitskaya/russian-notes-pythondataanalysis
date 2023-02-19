@@ -1,5 +1,7 @@
 ## $$\color{slategray}{\mathbb{Russian \\; Notes \\; Python \\; DataAnalysis}}$$
 
+### Тема 2
+
 [2.1 Введение в профессию «Аналитик данных»](https://www.kaggle.com/code/olgabelitskaya/russian-notes-pythondataanalysis-2-1)
 
 [2.2 Введение в программирование на языке Python](https://www.kaggle.com/code/olgabelitskaya/russian-notes-pythondataanalysis-2-2)
@@ -55,3 +57,17 @@
 2.39 - 2.42 В разработке
 
 [2.43 Графика. Обзор Python и других инструментов. Часть 1](https://www.kaggle.com/code/olgabelitskaya/russian-notes-pythondataanalysis-2-43)
+
+### Тема 3
+
+[3.1 Этапы анализа данных](https://www.kaggle.com/code/olgabelitskaya/russian-notes-pythondataanalysis-3-1)
+
+[3.2 Типы данных](https://www.kaggle.com/code/olgabelitskaya/russian-notes-pythondataanalysis-3-2)
+
+[3.3 Измерительные шкалы в аналитике](https://www.kaggle.com/code/olgabelitskaya/russian-notes-pythondataanalysis-3-3)
+
+### Тема 4
+
+[4.1 Исследовательский анализ данных](https://www.kaggle.com/code/olgabelitskaya/russian-notes-pythondataanalysis-4-1)
+
+[4.2 Символьный анализ данных](https://www.kaggle.com/code/olgabelitskaya/russian-notes-pythondataanalysis-4-2)
