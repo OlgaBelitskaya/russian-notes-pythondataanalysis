@@ -71,3 +71,21 @@
 [4.1 Исследовательский анализ данных](https://www.kaggle.com/code/olgabelitskaya/russian-notes-pythondataanalysis-4-1)
 
 [4.2 Символьный анализ данных](https://www.kaggle.com/code/olgabelitskaya/russian-notes-pythondataanalysis-4-2)
+
+### Тема 5
+
+5.1 В разработке
+
+[5.2 Описательная статистика](https://www.kaggle.com/code/olgabelitskaya/russian-notes-pythondataanalysis-5-2)
+
+[5.3 Генеральная совокупность и выборка](https://www.kaggle.com/code/olgabelitskaya/russian-notes-pythondataanalysis-5-3)
+
+[5.4 Библиотека `sklearn`](https://www.kaggle.com/code/olgabelitskaya/russian-notes-pythondataanalysis-5-4)
+
+5.5 - 5.6 В разработке
+
+[5.7 Элементы теории вероятностей](https://www.kaggle.com/code/olgabelitskaya/russian-notes-pythondataanalysis-5-7)
+
+[5.8 Вероятностное программирование](https://www.kaggle.com/code/olgabelitskaya/russian-notes-pythondataanalysis-5-8)
+
+[5.9 Анализ временных рядов](https://www.kaggle.com/code/olgabelitskaya/russian-notes-pythondataanalysis-5-9)
