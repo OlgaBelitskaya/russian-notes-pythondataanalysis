@@ -52,9 +52,13 @@
 
 [2.37 Python Scipy](https://www.kaggle.com/code/olgabelitskaya/russian-notes-pythondataanalysis-2-37)
 
-[2.38 Python Matplotlib](https://www.kaggle.com/code/olgabelitskaya/russian-notes-pythondataanalysis-2-38)
+[2.38 Python Matplotlib Часть 1](https://www.kaggle.com/code/olgabelitskaya/russian-notes-pythondataanalysis-2-38)
 
-2.39 - 2.42 В разработке
+2.39 В разработке
+
+[2.40 Python Matplotlib Графическое проектирование](https://www.kaggle.com/code/olgabelitskaya/russian-notes-pythondataanalysis-2-40)
+
+2.41, 2.42 В разработке
 
 [2.43 Графика. Обзор Python и других инструментов. Часть 1](https://www.kaggle.com/code/olgabelitskaya/russian-notes-pythondataanalysis-2-43)
 
