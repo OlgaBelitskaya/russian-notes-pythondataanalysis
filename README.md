@@ -36,7 +36,13 @@
 
 [2.20 Функции sorted(), map(), filter(), reduce()](https://www.kaggle.com/code/olgabelitskaya/russian-notes-pythondataanalysis-2-20)
 
-2.21 - 2.24 В разработке
+2.21 В разработке
+
+[2.22 Регулярные выражения Часть 1](https://www.kaggle.com/code/olgabelitskaya/russian-notes-pythondataanalysis-2-22)
+
+[2.23 Регулярные выражения Часть 2](https://www.kaggle.com/code/olgabelitskaya/russian-notes-pythondataanalysis-2-23)
+
+2.24 В разработке
 
 [2.25 Объектно–ориентированное программирование (ООП)](https://www.kaggle.com/code/olgabelitskaya/russian-notes-pythondataanalysis-2-25)
 
