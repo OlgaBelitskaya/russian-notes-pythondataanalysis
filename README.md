@@ -30,7 +30,9 @@
 
 [2.14 Множества и словари](https://www.kaggle.com/code/olgabelitskaya/russian-notes-pythondataanalysis-2-14)
 
-2.15 - 2.18 В разработке
+[2.15 Сочетание последовательных типов](https://www.kaggle.com/code/olgabelitskaya/russian-notes-pythondataanalysis-2-15)
+
+2.16 - 2.18 В разработке
 
 [2.19 Функции и итераторы](https://www.kaggle.com/code/olgabelitskaya/russian-notes-pythondataanalysis-2-19)
 
@@ -46,7 +48,15 @@
 
 [2.25 Объектно–ориентированное программирование (ООП)](https://www.kaggle.com/code/olgabelitskaya/russian-notes-pythondataanalysis-2-25)
 
-2.26 - 2.30 В разработке
+[2.26 Упражнения в объектно–ориентированном программировании](https://www.kaggle.com/code/olgabelitskaya/russian-notes-pythondataanalysis-2-26)
+
+2.27 В разработке
+
+[2.28 Python NumPy Часть 1](https://www.kaggle.com/code/olgabelitskaya/russian-notes-pythondataanalysis-2-28)
+
+[2.29 Python NumPy Часть 2](https://www.kaggle.com/code/olgabelitskaya/russian-notes-pythondataanalysis-2-29)
+
+[2.30 Python NumPy Часть 3](https://www.kaggle.com/code/olgabelitskaya/russian-notes-pythondataanalysis-2-30)
 
 [2.31 Pandas - Типы и структура данных](https://www.kaggle.com/code/olgabelitskaya/russian-notes-pythondataanalysis-2-31)
 
@@ -56,17 +66,19 @@
 
 2.34 - 2.36 В разработке
 
-[2.37 Python Scipy](https://www.kaggle.com/code/olgabelitskaya/russian-notes-pythondataanalysis-2-37)
+[2.37 Python SciPy](https://www.kaggle.com/code/olgabelitskaya/russian-notes-pythondataanalysis-2-37)
 
-[2.38 Python Matplotlib Часть 1](https://www.kaggle.com/code/olgabelitskaya/russian-notes-pythondataanalysis-2-38)
+[2.38 Python Matplotlib Часть 1 Регулирование парамеров](https://www.kaggle.com/code/olgabelitskaya/russian-notes-pythondataanalysis-2-38)
 
-2.39 В разработке
+[2.39 Python Matplotlib Часть 2 Композиция графиков](https://www.kaggle.com/code/olgabelitskaya/russian-notes-pythondataanalysis-2-39)
 
-[2.40 Python Matplotlib Графическое проектирование](https://www.kaggle.com/code/olgabelitskaya/russian-notes-pythondataanalysis-2-40)
+[2.40 Python Matplotlib Часть 3 Графическое проектирование](https://www.kaggle.com/code/olgabelitskaya/russian-notes-pythondataanalysis-2-40)
 
-2.41, 2.42 В разработке
+ 2.41, 2.42 В разработке
 
 [2.43 Графика. Обзор Python и других инструментов. Часть 1](https://www.kaggle.com/code/olgabelitskaya/russian-notes-pythondataanalysis-2-43)
+
+[2.44 Графика. Обзор Python и других инструментов. Часть 2](https://www.kaggle.com/code/olgabelitskaya/russian-notes-pythondataanalysis-2-44)
 
 ### Тема 3
 
